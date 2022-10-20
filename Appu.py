@@ -1,1 +1,1 @@
-Print("Appu is very good in saree")
+print("Appu is very beautiful in saree")
